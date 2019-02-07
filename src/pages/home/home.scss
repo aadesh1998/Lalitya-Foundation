@@ -1,0 +1,33 @@
+
+.grid-container {
+  padding-top: 15px;
+  display: grid;
+  grid-template-columns: 15% 70% 15%;
+}
+ion-header{
+  text-align: center;
+}
+.pad{
+  color: #BF247C;
+  font-size: auto;
+}
+.footer{
+
+}
+.joinus{
+  background-image: url("https://lalitya.com/wp-content/uploads/2015/07/joinus.png");
+  background-size: 100%;
+  border-top-right-radius: 360px;
+  height:100px;
+  // weidth:100%;
+}
+.donate{
+  background-image: url("https://lalitya.com/wp-content/uploads/2017/07/donate3.png");
+  background-size: 100%;
+  border-top-left-radius: 100%;
+  height:100px;
+  float: right;
+}
+.content{
+
+}
